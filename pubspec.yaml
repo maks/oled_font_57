@@ -1,0 +1,7 @@
+name: oled_font_57
+description: A small bitmap font 
+version: 1.0.0
+homepage: https://github.com/maks/oled_font_57
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
